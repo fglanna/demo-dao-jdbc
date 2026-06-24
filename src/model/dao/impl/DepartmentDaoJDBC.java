@@ -147,9 +147,4 @@ public class DepartmentDaoJDBC implements DepartmentDao {
 
 	}
 
-	@Override
-	public List<Department> findByDepartments(Department department) {
-		return null;
-	}
-
 }
